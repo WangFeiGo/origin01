@@ -1,0 +1,10 @@
+1.浏览器--fiddler--百度服务器--fiddler--浏览器
+
+Inspectors--raw 原始报文  heads信息（requset、response）
+两个换行符产生一个换行、
+
+
+   ftypisom   isomavc1  Bmoov   lmvhd    ? ?   X  0                                             @                     
+
+*** FIDDLER: RawDisplay truncated at 128 characters. Right-click to disable truncation. ***
+---右击，去勾选auto-truncate，不要自动截断
